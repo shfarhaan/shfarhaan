@@ -10,7 +10,8 @@ shfarhaan/shfarhaan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 <br> <br>
 <br> <br>
 <a href="https://app.daily.dev/shfarhaan"><img src="https://api.daily.dev/devcards/f6b931a3752a47d9b13b525f07685ea6.png?r=czp" width="400" alt="Sazzad Hussain Farhaan's Dev Card"/></a>
+--->
