@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Farhaan</h1>
-<h3 align="center">An enthusiastic AI and ML researcher with a strong open-source contribution drive. Effective communicator & a natural writer. Seeking opportunities in the field of AI for innovation and collaboration</h3>
+<h3 align="center">An enthusiastic AI and ML researcher with a strong open-source contribution drive. Seeking opportunities in the field of AI for innovation and collaboration </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shfarhaan&label=Profile%20views&color=0e75b6&style=flat" alt="shfarhaan" /> </p>
 
