@@ -5,6 +5,9 @@
 - 📫 How to reach me: [**Telegram**](https://t.me/shfarhaan) or [**LinkedIn**](https://www.linkedin.com/in/shfarhaan/)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shfarhaan&theme=dark)](https://git.io/streak-stats)
+
+
 <!---
 shfarhaan/shfarhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
