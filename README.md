@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shfarhaan" target="blank"><img src="https://img.shields.io/twitter/follow/shfarhaan?logo=twitter&style=for-the-badge" alt="shfarhaan" /></a> </p>
 
-- 🔭 I’m currently working on **LLMs**
+- 🔭 I’m currently exploring **Large Language Models**
 
-- 🌱 I’m currently learning **Langchain, RAG, LMMs**
+- 🌱 I’m currently learning **Langchain, RAG, Large Multimodal Models**
 
 - 💬 Ask me about **Machine Learning, Large Language Models**
 
